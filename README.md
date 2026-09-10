@@ -1,40 +1,253 @@
-<h1 align="center">Hi 👋, I'm Manita Thapa</h1>
-<h3 align="center">A passionate designer and frontend developer from Nepal.</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWprNnB3cHBoNjRicTZma3FudnZrNzk5ZGQ0dnE4NnY1M2E4OXhxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/heIX5HfWgEYlW/giphy.gif">
+# Hi 👋, I'm Mint
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mintrgm&label=Profile%20views&color=0e75b6&style=flat" alt="mintrgm" /> </p>
+### UX/UI Designer • Visual Designer • Computer Vision Enthusiast
 
-- 🔭 I’m currently working on **3D Online Gaming Store (LEVEL 3D)**
+**Developer at heart, designer by instinct.**
 
-- 🌱 I’m currently learning **Three.js, React, Node.js**
+I enjoy building things where **code meets visual creativity** — from web interfaces and interactive experiences to 3D experiments and computer vision.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mintrgm](https://github.com/mintrgm)
+Currently exploring **Computer Vision, Machine Learning, Blender and Frontend Development.**
 
-- 📝 I used to write articles on [https://thenaturehero.com/author/manitathapa/](https://thenaturehero.com/author/manitathapa/)
+<br>
 
-- 💬 Ask me about **Blender :)**
+<a href="https://github.com/mintrgm">
+<img src="https://img.shields.io/badge/GitHub-mintrgm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/manita-thapa-90376718b/">
+<img src="https://img.shields.io/badge/LinkedIn-Manita%20Thapa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://dribbble.com/minto_san">
+<img src="https://img.shields.io/badge/Dribbble-minto__san-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/_minto.draws_/">
+<img src="https://img.shields.io/badge/Instagram-minto.draws-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@mint-rgm">
+<img src="https://img.shields.io/badge/YouTube-mint--rgm-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **manitathapa.mgr7@gmail.com**
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bhpl453gX-R6F_nIjVGDzyQlHPhoCpdE/view?usp=sharing](https://drive.google.com/file/d/1bhpl453gX-R6F_nIjVGDzyQlHPhoCpdE/view?usp=sharing)
+---
 
-- ⚡ Fun fact **I am boring :):**
+## 👩‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mint_rgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mint_rgm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manita-thapa-90376718b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manita-thapa-90376718b" height="30" width="40" /></a>
-<a href="https://instagram.com/_minto.draws_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_minto.draws_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mint-rgm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mint-rgm" height="30" width="40" /></a>
-<a href="https://discord.gg/iamyourghost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iamyourghost" height="30" width="40" /></a>
+I'm a **Computer Science graduate from Nepal** interested in building things that are both functional and visually thoughtful.
+
+My main focus is **development**, especially frontend and interactive experiences, while my design background influences how I approach the things I build.
+
+I like understanding the whole process:
+
+```text
+Idea
+ ↓
+Design
+ ↓
+Code
+ ↓
+Experiment
+ ↓
+Build
+ ↓
+"What if I tried this?"
+```
+
+Currently, I'm diving deeper into **Computer Vision and Machine Learning**, while continuing to experiment with **Blender, 3D and web technologies**.
+
+---
+
+## 🚀 What I'm Working On
+
+### 👁️ Computer Vision & Machine Learning
+
+Currently learning and experimenting with:
+
+* OpenCV
+* Image processing
+* Computer vision fundamentals
+* MediaPipe
+* Machine Learning
+* Python-based experiments
+
+I'm especially interested in eventually combining **computer vision + interactive interfaces + 3D**.
+
+---
+
+### 🌐 Frontend & Interactive Web
+
+I'm working with:
+
+* React
+* JavaScript
+* HTML / CSS
+* Node.js
+* Three.js
+* REST APIs
+
+I enjoy the part where a static design becomes an actual **interactive thing you can use**.
+
+---
+
+### 🧊 Blender & 3D
+
+Blender is where my technical and creative sides overlap.
+
+I've worked with:
+
+* 3D modelling
+* Materials & lighting
+* Scene setup
+* Blender automation
+* Python scripting
+* 3D asset workflows
+* GLTF / GLB workflows
+
+I also post my random 3D experiments and artwork on Instagram:
+
+**→ [@*minto.draws*](https://www.instagram.com/_minto.draws_/)**
+
+---
+
+# 💼 Real-World Projects
+
+## 🌐 Open My Network
+
+A real-world project I've worked on as part of my professional UI/UX work.
+
+I've contributed to the **design and digital experience** of the platform, working across interfaces, visual assets and product experiences.
+
+**→ [openmynetwork.com](https://openmynetwork.com/)**
+
+---
+
+## 🌐 Primos Enterprise
+
+Another real-world project from my professional work, focused on the company's **web presence, UI/UX and visual design**.
+
+**→ [primosenterprise.com](https://primosenterprise.com/)**
+
+---
+
+# 🛠️ Projects & Experiments
+
+### 🎮 LEVEL 3D
+
+A 3D gaming-store concept I'm building while learning **React + Three.js** and exploring how 3D can be used as part of a web interface.
+
+`React` `Three.js` `JavaScript` `WebGL` `3D`
+
+---
+
+### 🍉 Fruit Slash
+
+A small arcade-style game built with **React and Python**, combining frontend development with experimentation around computer vision.
+
+`React` `Python` `OpenCV` `MediaPipe`
+
+---
+
+### 🩺 Kokoro Care
+
+A mental-wellness application developed during a hackathon.
+
+Built using a combination of web development, Python and machine-learning/AI components.
+
+🏆 **1st Runner-Up**
+
+`MERN` `FastAPI` `Python` `Machine Learning` `RAG`
+
+---
+
+# 🎨 Design
+
+Although development is where I'm heading, **design is still a huge part of how I think.**
+
+My UI/UX and visual design work:
+
+**→ [Dribbble — minto_san](https://dribbble.com/minto_san)**
+
+I enjoy working on:
+
+`UI/UX` · `Visual Design` · `Prototyping` · `Illustration` · `3D`
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,java,php,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mintrgm&show_icons=true&locale=en&layout=compact" alt="mintrgm" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,threejs,git,github,mongodb,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mintrgm&show_icons=true&locale=en" alt="mintrgm" /></p>
+### Computer Vision / ML
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintrgm&" alt="mintrgm" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=python,opencv,tensorflow" />
+</p>
+
+### Design & 3D
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,blender,ps,ai" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Computer Vision      █████████░░░
+Machine Learning     ███████░░░░░
+Blender / 3D         █████████░░░
+React / Frontend     █████████░░░
+Three.js              ███████░░░░░
+```
+
+Learning never really stops, unfortunately. :')
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mintrgm&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintrgm&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
+
+---
+
+# 🧩 Outside the Code
+
+When I'm not coding or designing, I like **capturing things**.
+
+Random moments, places, little trips, everyday stuff — basically anything I don't want to forget.
+
+Sometimes it becomes a vlog. Sometimes a photo. Sometimes an illustration.
+
+📹 **[YouTube — mint-rgm](https://www.youtube.com/@mint-rgm)**
+
+---
+
+<div align="center">
+
+### `code + design + curiosity`
+
+**Thanks for visiting! 👋**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mintrgm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
