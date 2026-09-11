@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Mint
+# Hi, I'm Manita Thapa
 
 ### `I design things. I code things. I make 3D things.`
 
@@ -37,16 +37,6 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGxhZDdxMHB4MXV6ZHEycGFmMXd1cWxtZ2xwYW14djdjZ29qbzhrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="320">
 
 </div>
-
----
-
-## About Me
-
-I'm a **Computer Science graduate from Nepal** who enjoys working where
-**design, technology and creativity overlap**.
-
-I work across **UI/UX, frontend, 3D and creative technology**, while
-currently diving deeper into **Computer Vision and Machine Learning**.
 
 ---
 
@@ -118,30 +108,10 @@ animations and visual assets.
 
 `UI/UX` · `Web Design` · `Visual Design`
 
-A real-world web project involving interface and visual design.
+Working on interfaces, dashboards, landing pages, prototypes,
+animations and visual assets.
 
 [primosenterprise.com](https://primosenterprise.com/)
-
-### LEVEL 3D
-
-`React` · `Three.js` · `3D`
-
-A 3D online gaming store experiment.
-
-### Fruit Slash
-
-`React` · `Python` · `OpenCV` · `MediaPipe`
-
-An arcade-style fruit slicing game with computer vision experiments.
-
-### Kokoro Care
-
-`MERN` · `FastAPI` · `ML` · `RAG`
-
-**1st Runner-Up — Hackathon**
-
-A mental wellness application combining web development,
-machine learning and AI.
 
 ---
 
@@ -184,26 +154,3 @@ machine learning and AI.
 </div>
 
 ---
-
-## Find Me Elsewhere
-
-<div align="center">
-
-**UI/UX**  
-[Dribbble](https://dribbble.com/minto_san)
-
-**3D / Art**  
-[Instagram](https://www.instagram.com/_minto.draws_/)
-
-**Random life captured on camera**  
-[YouTube](https://www.youtube.com/@mint-rgm)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&center=true&vCenter=true&width=500&lines=make+it+work.;make+it+pretty.;make+it+interesting." />
-
-</div>
