@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Manita Thapa
+# Hi, I'm Mint
 
 ### `I design things. I code things. I make 3D things.`
 
