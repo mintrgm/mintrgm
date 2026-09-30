@@ -1,11 +1,10 @@
-```yaml
-name: Generate snake animation
+name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 */12 * * *"
-
-  workflow_dispatch:
 
   push:
     branches:
@@ -17,20 +16,20 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: mintrgm
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to the output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
