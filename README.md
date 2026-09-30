@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mint 👋</h1>
+<h1 align="center">Hi, I'm Mint</h1>
 
 <h3 align="center">
 UX/UI Designer • Visual Designer • Computer Vision Enthusiast
@@ -92,7 +92,7 @@ alt="Cat typing"
 
 ---
 
-<h2 align="center">🛠️ Things I Work With</h2>
+<h2 align="center">Things I Work With</h2>
 
 <p align="center">
   <i>A mix of design, code, AI and creative experiments.</i>
@@ -100,54 +100,67 @@ alt="Cat typing"
 
 <br>
 
-<h3 align="center">🎨 Design & Creative</h3>
+<table align="center">
+<tr>
+<th align="left">Category</th>
+<th align="left">Tools & Technologies</th>
+</tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ibisPaint_X-FF6F91?style=for-the-badge"/>
-</p>
+<tr>
+<td><b>Design & Creative</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/ibisPaint_X-FF6F91?style=for-the-badge"/>
+</td>
+</tr>
 
-<h3 align="center">💻 Languages</h3>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+<tr>
+<td><b>Frontend & Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</td>
+</tr>
 
-<h3 align="center">🌐 Frontend & Backend</h3>
+<tr>
+<td><b>AI & Computer Vision</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
+<tr>
+<td><b>Tools & Databases</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</td>
+</tr>
 
-<h3 align="center">🤖 AI & Computer Vision</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
-</p>
-
-<h3 align="center">🗄️ Tools & Databases</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+</table>
 
 ---
 
@@ -156,7 +169,7 @@ alt="Cat typing"
 
 <td width="50%" valign="top">
 
-<h3>👁️ Computer Vision</h3>
+<h3>Computer Vision</h3>
 
 <p>
 I'm interested in how machines can understand images,
@@ -172,7 +185,7 @@ way too interesting to ignore.
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI & Product Design</h3>
+<h3>AI & Product Design</h3>
 
 <p>
 I'm interested in AI products where the experience matters
@@ -192,7 +205,7 @@ an ugly button is still an ugly button.
 
 <td width="50%" valign="top">
 
-<h3>🧊 3D & Creative Technology</h3>
+<h3>3D & Creative Technology</h3>
 
 <p>
 I like experimenting with Blender, 3D scenes, animation,
@@ -203,7 +216,7 @@ illustration and little creative-tech experiments.
 
 <td width="50%" valign="top">
 
-<h3>🎨 Visual Design</h3>
+<h3>Visual Design</h3>
 
 <p>
 I enjoy illustration, interface design and experimenting
@@ -217,7 +230,7 @@ with ways to make digital experiences feel more expressive.
 
 ---
 
-<h2 align="center">🌐 Connect</h2>
+<h2 align="center">Connect</h2>
 
 <p align="center">
 
@@ -234,7 +247,7 @@ with ways to make digital experiences feel more expressive.
 </a>
 
 <a href="https://www.pinterest.com/mint0desu/">
-  <img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
 
 <a href="https://www.twitch.tv/mintoosan">
