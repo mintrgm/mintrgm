@@ -1,83 +1,54 @@
 <h1 align="center">Hi, I'm Mint</h1>
 
-<h3 align="center">
-UX/UI Designer • Visual Designer • Computer Vision Enthusiast
-</h3>
-
 <p align="center">
-Designing interfaces, building things, drawing things, and occasionally wondering why my code works.
+  <strong>UX/UI Designer • Visual Designer • Computer Vision Enthusiast</strong>
 </p>
-
-<p align="center">
-  <a href="https://github.com/mintrgm">
-    <img src="https://img.shields.io/badge/GitHub-mintrgm-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.twitch.tv/mintoosan">
-    <img src="https://img.shields.io/badge/Twitch-mintoosan-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/mintrgm/mintrgm/blob/output/snake.svg" alt="Contribution graph" />
-</p>
-
----
-
-<h2 align="center">Currently loading...</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Designing+interfaces;Exploring+Computer+Vision;Building+AI-powered+things;Playing+with+Blender;Drawing+things+that+probably+didn't+need+to+be+drawn;Leetcoding+for+fun+(somehow);Trying+to+make+code+look+as+good+as+the+UI" alt="Typing animation" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Designing+interfaces;Exploring+Computer+Vision;Building+AI-powered+things;Playing+with+Blender;Drawing+things+that+probably+didn't+need+to+be+drawn;Leetcoding+for+fun+(somehow);Trying+to+make+code+look+as+good+as+the+UI"
+      alt="Typing animation"
+    />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://github.com/mintrgm/mintrgm/blob/output/snake.svg"
+    alt="Contribution graph"
+  />
 </p>
 
 ---
 
 <table>
-<tr>
-<td width="58%" valign="top">
+  <tr>
+    <td width="58%" valign="top">
 
-<h2>About Me</h2>
+## About Me
 
-<p>
-I'm a <b>BSc.CSIT graduate</b> who enjoys sitting somewhere between
-<b>design and code</b>.
-</p>
+I'm a **BSc.CSIT graduate** who enjoys sitting somewhere between **design and code**.
 
-<p>
-I like turning ideas into interfaces, illustrations and interactive
-experiences, and then getting curious about how everything works
-underneath.
-</p>
+I like turning ideas into interfaces, illustrations and interactive experiences, and then getting curious about how everything works underneath.
 
-<p>
-My interests are currently somewhere around:
-</p>
+My interests currently revolve around:
 
-<ul>
-  <li>UX/UI and visual design</li>
-  <li>Artificial Intelligence</li>
-  <li>Computer Vision</li>
-  <li>Creative coding</li>
-  <li>3D and Blender</li>
-  <li>Frontend development</li>
-  <li>AI-powered products</li>
-</ul>
+- UX/UI and visual design
+- Artificial Intelligence
+- Computer Vision
+- Creative coding
+- 3D and Blender
+- Frontend development
+- AI-powered products
 
-<p>
-I especially like the intersection of <b>visual design + technology</b>.
-If something can be made both functional and visually interesting,
-I'm probably going to try it.
-</p>
+I especially enjoy the intersection of **visual design and technology** — making things that are not only functional, but also feel good to use.
 
-</td>
+    </td>
 
-<td width="42%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
@@ -87,70 +58,146 @@ I'm probably going to try it.
 
 <br><br>
 
-<sub>
-<i>Probably fixing something I broke five minutes ago.</i>
-</sub>
+<sub><i>Probably fixing something I broke five minutes ago.</i></sub>
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 ---
 
 <h2 align="center">Things I Work With</h2>
 
-<h3 align="center">Design & Creative</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ibisPaint_X-FF6F91?style=for-the-badge"/>
+  <sub>
+    A mix of design, development, creative tools and AI.
+  </sub>
 </p>
 
-<h3 align="center">Languages</h3>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <b>Design</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=figma,blender" />
+      <br><br>
+      <sub>UI/UX • Visual Design • 3D</sub>
+    </td>
+
+    <td align="center" width="25%">
+      <b>Languages</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts,c" />
+      <br><br>
+      <sub>Python • Java • JavaScript • TypeScript • C</sub>
+    </td>
+
+    <td align="center" width="25%">
+      <b>Frontend</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+      <br><br>
+      <sub>React • Tailwind • Vite</sub>
+    </td>
+
+    <td align="center" width="25%">
+      <b>Backend</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+      <br><br>
+      <sub>FastAPI • Spring Boot • Node.js</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>AI / Computer Vision</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+      <br><br>
+      <sub>OpenCV • Machine Learning • RAG</sub>
+    </td>
+
+    <td align="center">
+      <b>Databases</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+      <br><br>
+      <sub>MongoDB • MySQL • PostgreSQL</sub>
+    </td>
+
+    <td align="center">
+      <b>Tools</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+      <br><br>
+      <sub>Git • GitHub • VS Code</sub>
+    </td>
+
+    <td align="center">
+      <b>Creative Tech</b>
+      <br><br>
+      <img src="https://skillicons.dev/icons?i=blender,python" />
+      <br><br>
+      <sub>3D • Animation • Creative Coding</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
 
-<h3 align="center">Frontend & Backend</h3>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
-
-<h3 align="center">AI & Computer Vision</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge"/>
-</p>
-
-<h3 align="center">Tools & Databases</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
-<h2 align="center">Somewhere Between Design & Debugging</h2>
+<table>
+  <tr>
+
+    <td width="50%" valign="top">
+
+## AI & Computer Vision
+
+I'm interested in how machines can understand **images, movement and visual information**.
+
+Computer Vision especially fascinates me because pixels stop being just pixels and start becoming something a machine can actually understand.
+
+I'm interested in building AI systems that are not just technically interesting, but also have a **good visual experience around them**.
+
+    </td>
+
+    <td width="50%" valign="top">
+
+## Why AI?
+
+I like the idea of giving software **eyes and a little bit of a brain**.
+
+But I'm equally interested in what happens after the model works — the interface, the interaction, the visuals and the overall experience.
+
+Because an incredibly intelligent AI trapped inside an ugly button is still an ugly button.
+
+    </td>
+
+  </tr>
+</table>
+
+---
 
 <p align="center">
   <img
@@ -161,108 +208,17 @@ I'm probably going to try it.
 </p>
 
 <p align="center">
-  <code>Figma</code>
-  →
-  <code>Code</code>
-  →
-  <code>Break something</code>
-  →
-  <code>Fix it</code>
-  →
-  <code>Make it prettier</code>
-</p>
-
----
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>Computer Vision</h3>
-
-<p>
-I'm interested in how machines can understand images,
-movement and visual information.
-</p>
-
-<p>
-The idea of turning pixels into something meaningful is
-way too interesting to ignore.
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>AI & Product Design</h3>
-
-<p>
-I'm interested in AI products where the experience matters
-just as much as what's happening behind the interface.
-</p>
-
-<p>
-Because an incredibly intelligent AI trapped inside
-an ugly button is still an ugly button.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>3D & Creative Technology</h3>
-
-<p>
-I like experimenting with Blender, 3D scenes, animation,
-illustration and little creative-tech experiments.
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Leetcoding</h3>
-
-<p>
-Sometimes I solve LeetCode problems for fun.
-</p>
-
-<p>
-I don't know why either.
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">A Few Things I'm Into</h2>
-
-<p align="center">
-
-<code>Computer Vision</code>
-&nbsp;&nbsp;
-<code>AI</code>
-&nbsp;&nbsp;
-<code>UX/UI</code>
-&nbsp;&nbsp;
-<code>Visual Design</code>
-&nbsp;&nbsp;
-<code>Blender</code>
-&nbsp;&nbsp;
-<code>Creative Coding</code>
-&nbsp;&nbsp;
-<code>Frontend</code>
-&nbsp;&nbsp;
-<code>AI Products</code>
-
+  <sub>
+    <code>design</code>
+    →
+    <code>code</code>
+    →
+    <code>break something</code>
+    →
+    <code>fix it</code>
+    →
+    <code>make it prettier</code>
+  </sub>
 </p>
 
 ---
@@ -272,15 +228,45 @@ I don't know why either.
 <p align="center">
 
 <a href="https://github.com/mintrgm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<a href="YOUR_YOUTUBE_URL">
+  <img
+    src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
 </a>
 
 <a href="https://www.twitch.tv/mintoosan">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"
+    alt="Twitch"
+  />
+</a>
+
+<a href="YOUR_DRIBBBLE_URL">
+  <img
+    src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"
+    alt="Dribbble"
+  />
 </a>
 
 </p>
