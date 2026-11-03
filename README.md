@@ -264,7 +264,7 @@ with ways to make digital experiences feel more expressive.
 
 <p align="center">
   <sub>
-    Built with curiosity, caffeine, too many browser tabs,
+    Built with curiosity, caffeine, too many browser tabs (one with series),
     and probably one more redesign than necessary.
   </sub>
 </p>
