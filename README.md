@@ -44,7 +44,7 @@ I'm a <b>BSc.CSIT graduate</b> who enjoys sitting somewhere between
 </p>
 
 <p>
-I like turning ideas into interfaces, illustrations and interactive
+I like turning ideas into interfaces, illustrations, 3D and interactive
 experiences, and then getting curious about how everything works
 underneath.
 </p>
